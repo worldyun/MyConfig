@@ -1,0 +1,29 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Panda Syntax",
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.minimap.enabled": false,
+    // "files.autoSave": "onFocusChange",
+    "files.autoSave": "onFocusChange",
+    "editor.renderIndentGuides": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication",
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    // "git.ignoreLegacyWarning": true,
+    "git.path": "D:\\Program Files\\Git\\bin\\git.exe",
+    "maven.executable.path": "D:\\Program Files\\Maven\\apache-maven-3.6.3\\bin\\mvn.cmd",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue"
+    ],
+    "eslint.options": {
+        "plugins": ["html"]
+     }
+}
